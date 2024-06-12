@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://jchartrand.github.io/status-test-tec/8I9FSNW5TY#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
-  "issuanceDate": "2024-06-11T16:01:44.338Z",
+  "issuanceDate": "2024-06-12T19:00:16.261Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2024-06-11T16:01:44Z",
+    "created": "2024-06-12T19:00:16Z",
     "verificationMethod": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR#z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3A8DcrxHq1vjWQqyGT6VZD2HPPN9PhESa5FusnSNmoEU1k1MMusPZdqqBXzLETPKq6mhdhaeMvHD9ZJcrYb147vy"
+    "proofValue": "z413uV7FxfBX6PNm2mUF9mCLgRUaBin8ywZFLT7p1dGiiWYwJtA71aDH5esxE6BsfxyoSstFXjgQanXBYFJvFaEbV"
   }
 }
